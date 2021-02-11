@@ -1,44 +1,68 @@
 .head-color {
-
     background-color: #000401;
-
 }
 
 .hero-header {
-
     color: #E5E8E8;
     font-family: monospace, Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
-
+    font-size: 2.5em;
+    text-align: center;
 }
 
 .head-par {
     color: #E5E8E8;
+    text-align: center;
 }
 
 #foto-dino {
-
     border-radius: 100% 100% 100% 4%;
-    
+    display: block;
+    margin: auto;
+    width: 350px;
+}
+
+.headings {
+    color: #4E545C;
+    text-align: center;
+    font-weight: 600;
 }
 
 .body-general {
-
     background-color: #000401;
     font-family: 'Courier New', Courier;
 }
 
 .bodygen-text {
-
     color: #E5E8E8;
 }
 
-
 .body-white {
-
     background-color: #ffffff;
+}
+
+/* .list-center {
+    text-align: center;
+} */
+
+.button {
+    padding: 15px 20px 15px 20px;
+    background-color: #E5E8E8;
+    border-radius: 4px;
+    color: #000401;
+}
+
+.allign-button {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .foot {
     background-color: #000401;
+    color: #E5E8E8;
+    font-size: 13px;
 }
