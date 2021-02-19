@@ -1,3 +1,15 @@
+.top-menu {
+
+    color: #E5E8E8;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+
+}
+
 .head-color {
     background-color: #000401;
 }
@@ -15,29 +27,29 @@
     text-align: center;
 }
 
-.logo-big {
+.contentor {
 
-    border-radius: 100% 100% 1.5% 100%;
-    display: block;
-    margin: auto;
-    width: 350px;
+    position: relative;
 
 }
 
-.logo-small {
-
-    border-radius: 100% 100% 1.5% 100%;
+.pho-one {
+    border-radius: 100% 100% 2% 100%;
     display: block;
-    margin: auto;
-    width: 150px;
-
+    top: 100%;
+    left: 100%;
+    width: 350px;
+    height: 350px;
 }
 
-#foto-dino {
-    border-radius: 100% 100% 1.5% 100%;
-    display: block;
-    margin: auto;
-    width: 350px;
+.pho-two {
+
+    border-radius: 100% 100% 2% 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 240px;
+
 }
 
 .headings {
@@ -58,10 +70,6 @@
 .body-white {
     background-color: #ffffff;
 }
-
-/* .list-center {
-    text-align: center;
-} */
 
 .button {
     padding: 15px 20px 15px 20px;
