@@ -15,8 +15,26 @@
     text-align: center;
 }
 
+.logo-big {
+
+    border-radius: 100% 100% 1.5% 100%;
+    display: block;
+    margin: auto;
+    width: 350px;
+
+}
+
+.logo-small {
+
+    border-radius: 100% 100% 1.5% 100%;
+    display: block;
+    margin: auto;
+    width: 150px;
+
+}
+
 #foto-dino {
-    border-radius: 100% 100% 100% 4%;
+    border-radius: 100% 100% 1.5% 100%;
     display: block;
     margin: auto;
     width: 350px;
