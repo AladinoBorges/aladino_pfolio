@@ -1,94 +1,118 @@
-.top-menu {
-
-    color: #E5E8E8;
-    float: right;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    display: block;
-
-}
-
 .head-color {
+
     background-color: #000401;
+
 }
 
 .hero-header {
+
     color: #E5E8E8;
+    background-color: black;
     font-family: monospace, Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
     font-size: 2.5em;
     text-align: center;
+
 }
 
 .head-par {
+
     color: #E5E8E8;
     text-align: center;
-}
-
-.contentor {
-
-    position: relative;
-
-}
-
-.pho-one {
-    border-radius: 100% 100% 2% 100%;
-    display: block;
-    top: 100%;
-    left: 100%;
-    width: 350px;
-    height: 350px;
-}
-
-.pho-two {
-
-    border-radius: 100% 100% 2% 100%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 240px;
 
 }
 
 .headings {
+
     color: #4E545C;
     text-align: center;
     font-weight: 600;
+
+}
+
+.pho-two {
+
+    border-radius: 100% 100% 4% 100%;
+    display: block;
+    margin: auto;
+    width: 325px;
+    padding: 45px;
+
+}
+
+.top-menu {
+
+    color: #E5E8E8;
+    text-align: center;
+    font-size: 17px;
+    padding: 15px 0px 0px 0px;
+
+}
+
+.top-menu a:hover {
+
+    color: #A1A9B0;
+    text-transform: uppercase;
+
 }
 
 .body-general {
+
     background-color: #000401;
     font-family: 'Courier New', Courier;
+
 }
 
 .bodygen-text {
+
     color: #E5E8E8;
+
 }
 
 .body-white {
+
     background-color: #ffffff;
+
 }
 
 .button {
+
     padding: 15px 20px 15px 20px;
     background-color: #E5E8E8;
     border-radius: 4px;
     color: #000401;
+
 }
 
 .allign-button {
+
     text-align: center;
+
+}
+
+.allign-button a:hover {
+
+    color: #202421;
+
 }
 
 a {
+
     text-decoration: none;
     color: inherit;
+
 }
 
 .foot {
+
     background-color: #000401;
     color: #E5E8E8;
     font-size: 13px;
+
+}
+
+.foot a:hover {
+
+    color: #6b6d6b;
+
 }
