@@ -1,68 +1,129 @@
 .head-color {
+
     background-color: #000401;
+
 }
 
 .hero-header {
+
     color: #E5E8E8;
+    background-color: black;
     font-family: monospace, Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
     font-size: 2.5em;
     text-align: center;
+
 }
 
 .head-par {
+
     color: #E5E8E8;
     text-align: center;
-}
 
-#foto-dino {
-    border-radius: 100% 100% 100% 4%;
-    display: block;
-    margin: auto;
-    width: 350px;
 }
 
 .headings {
+
     color: #4E545C;
     text-align: center;
     font-weight: 600;
+
+}
+
+.pho-two {
+
+    border-radius: 100% 100% 4% 100%;
+    display: block;
+    margin: auto;
+    width: 325px;
+    padding: 45px;
+
+}
+
+.top-menu {
+
+    color: #E5E8E8;
+    text-align: center;
+    font-size: 17px;
+    padding: 15px 0px 0px 0px;
+
+}
+
+.top-menu a:hover {
+
+    color: #A1A9B0;
+    text-transform: uppercase;
+
 }
 
 .body-general {
+
     background-color: #000401;
     font-family: 'Courier New', Courier;
+
+}
+
+.body-general p {
+
+    margin: 0% 2% 0% 2%;
+
+}
+
+.body-general ul {
+
+    margin: 2% 4% 2% 4%;
 }
 
 .bodygen-text {
+
     color: #E5E8E8;
+
 }
 
 .body-white {
+
     background-color: #ffffff;
+
 }
 
-/* .list-center {
-    text-align: center;
-} */
-
 .button {
-    padding: 15px 20px 15px 20px;
+
+    padding: 10px 15px 10px 15px;
     background-color: #E5E8E8;
     border-radius: 4px;
     color: #000401;
+
 }
 
 .allign-button {
+
     text-align: center;
+
+}
+
+.allign-button a:hover {
+
+    color: #202421;
+
 }
 
 a {
+
     text-decoration: none;
     color: inherit;
+
 }
 
 .foot {
+
     background-color: #000401;
     color: #E5E8E8;
     font-size: 13px;
+
+}
+
+.foot a:hover {
+
+    color: #6b6d6b;
+
 }
