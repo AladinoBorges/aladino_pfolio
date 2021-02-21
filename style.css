@@ -63,6 +63,17 @@
 
 }
 
+.body-general p {
+
+    margin: 0% 2% 0% 2%;
+
+}
+
+.body-general ul {
+
+    margin: 2% 4% 2% 4%;
+}
+
 .bodygen-text {
 
     color: #E5E8E8;
@@ -77,7 +88,7 @@
 
 .button {
 
-    padding: 15px 20px 15px 20px;
+    padding: 10px 15px 10px 15px;
     background-color: #E5E8E8;
     border-radius: 4px;
     color: #000401;
